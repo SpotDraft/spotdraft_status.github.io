@@ -19,7 +19,7 @@ status-website:
   introTitle: "Spotdraft Status Dashboard"
   introMessage: This page provides status information on the services that are part of Spotdraft Platform
   navbar:
-    - title: Status
+    - title: status
       href: /
     - title: Go to App
       href: https://app.spotdraft.com
