@@ -4,18 +4,20 @@
     "url": "https://app.spotdraft.com",
     "icon": "https://favicons.githubusercontent.com/app.spotdraft.com",
     "slug": "spotdraft-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 355,
-    "timeWeek": 338,
-    "timeMonth": 350,
-    "timeYear": 350,
-    "dailyMinutesDown": {}
+    "time": 1030,
+    "timeDay": 7831,
+    "timeWeek": 2209,
+    "timeMonth": 1030,
+    "timeYear": 1030,
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "Backend API",
